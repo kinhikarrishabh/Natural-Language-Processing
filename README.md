@@ -3,5 +3,7 @@ This Repository contains the fundamental concepts of Natural Language Processing
    
 2) *File Handling* : Often times, while we'll be dealing with NLP Based Projects, the dataset would be in the form of different file formats, and we learn to handle different file formats with the use of Python. We explore the Regex Module of Python to see how it can benefit to aid our tasks.
 
-3) *Analyzing Text Corpus* : Familiarize with Guttenberg and Brown Corpus specificially, and acquaint with methods and technique to access, understand and analyze various texts of the corpus.
+3) *Feature Engineering in NLP* : Obtain most frequent words distribution, average chapter length, most frequent phrases (bi, tri and quadgrams), names of characters, places, and events for any two books/novel, interpret findings through word-clouds, bar plots and histograms and perform EDA on some available textual dataset
+
+
    
