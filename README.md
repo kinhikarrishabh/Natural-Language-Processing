@@ -9,6 +9,8 @@ This Repository contains the fundamental concepts of Natural Language Processing
 
 4) *Vector Space Models* : Implementation of Word2Vec word embedding technique to observe similarity between two words/sentences and Implementation of GloVe word embedding technique to measure semantic similarity.
 
+5) *Information Extraction-POS tagging and NER* : Identify Part of Speech such as Noun, Verb, Adjective, Adverb and tag it. Identify named entity in the text for Named Entity Recognition.
+
 
 
    
