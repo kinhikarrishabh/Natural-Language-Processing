@@ -11,7 +11,7 @@ This Repository contains the fundamental concepts of Natural Language Processing
 
 5) *Information Extraction-POS tagging and NER* : Identify Part of Speech such as Noun, Verb, Adjective, Adverb and tag it. Identify named entity in the text for Named Entity Recognition.
 
-6) *Sentiment Analysis* : Select a dataset, perform Exploratory Data Analysis, text preprocessing, feature engineering, implement sentiment analysis on the given dataset in Natural Language Processing and then analyze and comprehend the results obtained.
+6) *Sentiment Analysis* : Select a dataset, perform Exploratory Data Analysis, text preprocessing, feature engineering. Implement sentiment analysis on the given dataset in Natural Language Processing and then analyze and comprehend the results obtained.
 
 
 
